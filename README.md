@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! 👋 My name is Pavel.
 
+Я занимаюсь изучением Python. Ищу работу и сотрудничество.
+Мои контакты: pgphil@yandex.ru, https://t.me/pgphil.
+Мой стек: Python, Django, DRF, FastAPI, Flask, VSCode, PyCharm, Docker, Nginx, Postgres.
 <!--
 **pgphil86/pgphil86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
